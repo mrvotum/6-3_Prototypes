@@ -57,4 +57,4 @@ typings/
 .dynamodb/
 dist
 coverage
-doc
+docs
